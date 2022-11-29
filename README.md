@@ -15,3 +15,14 @@ Ruoyu Sun:
 
 Next:
 Detection based on collider, so remember to apply collider to all the objects.
+
+## November 28
+
+Ruoyu Sun:
+
+### Avaliable update: 
+1. player movement update: https://www.youtube.com/watch?v=UBowqGbZ9a4
+2. In-game menu bar: Set the UI into correct position
+
+### Tomorrow works:
+1. Object movement
