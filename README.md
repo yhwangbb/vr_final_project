@@ -1,6 +1,6 @@
 # vr_final_project
 
-## IMPORTANT Note for Yung-Hsin Wang!!!!:
+## IMPORTANT Note for Yung-Hsin Wang:
 1. Remember to set up the scale and check them in VR play mode
 2. Add Rigidbody and collider (both box and sphere are fine)to all the imported objects.
 
